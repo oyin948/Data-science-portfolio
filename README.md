@@ -14,6 +14,12 @@ Welcome! I'm Oyindamola, a Data Science student building my skills in data analy
 
 Projects will be added here as I build and complete them.
 
+
+### [Retail Sales Analysis](https://github.com/oyin948/Retail-Sales-Analysis)
+Cleaned 9,800 retail orders with Python and built a 3-page interactive Power BI dashboard (DAX, time intelligence).
+
+
+
 🎯 Currently Learning
 
 - Python for Data Analysis
